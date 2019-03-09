@@ -14,6 +14,8 @@ Esta página é parte da etapa inicial de um esforço realizado por voluntários
 
 * [ Visualização - Barragens no Brasil ]( https://data4industry.github.io/barragens_brasil )
 
+* [ Artigo - Usando a ciência de dados para mapear as barragens do Brasil ]( https://cappra.com.br/2019/02/19/ciencia-dados-barragens/ )
+
 O conteúdo será atualizado conforme novas análises estiverem disponíveis.
 
 
