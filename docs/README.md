@@ -26,15 +26,15 @@ Projeto open source com objetivo principal de identificar os potenciais riscos d
     
 ### Repositório no Github: ###
 
-[ https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil ]( https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil )
+[ https://github.com/edumagol/Analise-Mape... ]( https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil )
      
 ### Saiba mais sobre o projeto ###
 
-[ https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/blob/master/README.md ]( https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/blob/master/README.md )
+[ https://github.com/edumagol/Analise-... ]( https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/blob/master/README.md )
     
 ### Kaggle ###
 
-[ https://www.kaggle.com/edumagalhaes/brazilian-dams-and-brumadinho-households ]( https://www.kaggle.com/edumagalhaes/brazilian-dams-and-brumadinho-households )
+[ https://www.kaggle.com/edumagalhaes/brazilian... ]( https://www.kaggle.com/edumagalhaes/brazilian-dams-and-brumadinho-households )
      
 ### GoogleColab ###
  
