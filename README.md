@@ -1,41 +1,33 @@
-# Sumário Estatístico  - Barragens do Brasil #
+# Analise-Mapemaneto-Risco-Barragems-Brasil
+Projeto open source com objetivo principal de identificar os potenciais riscos das barragens. Foram criados mapas dinâmicos baseados em dados abertos, e aqui nesse documento, estamos disponibilizando nossas descobertas e os códigos que foram criados para essas análises, acreditamos que compartilhar essa construção/código pode estimular e acelerar outras iniciativas do mesmo tipo ao redor do Brasil.
 
-Esta página é parte da etapa inicial de um esforço realizado por voluntários para análisar e mapear o risco de incidentes semelhantes aos de Brumadinho e Mariana.
+[Veja aqui o report detalhado dessa pesquisa](https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/blob/master/cientistas%20de%20dados%20contra%20os%20riscos%20das%20barragens.pdf)
 
-## Análises e visualizações ## 
 
-* [ Visualização - Barragens e domicílios na região de Brumadinho ]( https://luizbweb.github.io/docs/barragens_brumadinho )
+![Figura1](https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/blob/master/Dataviz/Barragens_MG_Regiao_Rompimento_Macro_2.png "Região de Brumadinho")
+> Barragens na região de Brumadinho, mostrando os domícilios próximos e as respectivas barragens, o qual o raio do círculo representa o volume da barragem e a a cor do círculo o potencial de risco associado (vermelho = alto).
 
-* [ Visualização - Barragens de Minas Gerais ]( https://luizbweb.github.io/docs/barragens_mg )
 
-* [ Visualização - Barragens no Brasil ]( https://luizbweb.github.io/docs/barragens_brasil )
+## Pesquisadores
+O projeto foi desenvolvido por diversos pesquisadores da comunidade do **Programa Bárbara da Cappra Data Science** e pessoas também fora da comunidade. Alguns dos pesquisadores:
+  * [Ricardo Cappra](https://www.linkedin.com/in/cappra/
+  * Eu mesmo..rsrs
+  * [Márcio Santos](https://github.com/bi85/Mapa-de-Riscos-Barragens) - acesse os dashoboards feitos no PowerBI!
+  * [Anna Cristina](https://www.linkedin.com/in/annacristinabraga/)
+  * Óllivan
+  * [Bruno Vianna](https://github.com/luizbweb)
+  * Márcio Amaral
+  * Erick Guerra
+  * Flavio Thimotio
+  * Franciso Estivalero
 
-O conteúdo será atualizado conforme novas análises estiverem disponíveis.  
+## Passo a passo para contribuir com o projeto
+**Muito simples:** Basta acessar o link dos nossos notebooks na plataforma [Google Collab](https://colab.research.google.com/drive/1BOtbg3ZIIsYcDpsvfbyT1bKzAo2Oke82) e **continuar o desenvolvimento**.
 
-##  Objetivos deste Sumário ##
+O projeto também poderá ser continuado aqui pelo **[github](https://nbviewer.jupyter.org/github/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/blob/master/ProjetoVoluntarioCienciadeDados_GeoanaliseBarragenseMunicipios.ipynb)**, portanto, segue abaixo uma breve explicação de cada conteúdo desse repositório
+  1. A pasta **data** contém os arquivos das bases de dados utilizadas para fazer análise exploratória. No meu perfil do [Kaggle](https://www.kaggle.com/edumagalhaes/brazilian-dams-and-brumadinho-households), também disponibilizo a mesma base em um formato mais adequado para ciência de dados.
+  2. A pasta **Dataviz** contém algumas figuras geradas na ferramenta de dataviz por geolocalização (Kepler.gl)
+  3. O **notebook em python** contém alguma análise exploratória bem simples que pode ser **continuada/desenvolvida**
+  4. O arquivo **keplergl.json** é o arquivo de configuração utilizada para gerar as figuras/dataviz que estão na pasta Dataviz. Caso queira partir do ponto em que paramos (veja a figura acima gerada), basta fazer um upload desse arquivo no [Kepler.gl](http://kepler.gl/#/demo)
 
-Documentar de maneira simples e objetiva os resultados das análises produzidas.
-
-Reunir textos, gráficos, infográficos e visualizações que facilitem a compreensão o estado das barragens no Brasil.
-
-Reunir informações sobre incidentes anteriores que permitam evitar que acidentes futuros o ocorram.
-
-## Sobre o projeto ##
-
-Projeto open source com objetivo principal de identificar os potenciais riscos das barragens. Foram criados mapas dinâmicos baseados em dados abertos, e aqui nesse documento, estamos disponibilizando nossas descobertas e os códigos que foram criados para essas análises, acreditamos que compartilhar essa construção/código pode estimular e acelerar outras iniciativas do mesmo tipo ao redor do Brasil.    
-    
-### Repositório no Github: ###
-
-[ https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil ]( https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil )
-     
-### Saiba mais sobre o projeto ###
-
-[ https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/blob/master/README.md ]( https://github.com/edumagol/Analise-Mapemaneto-Risco-Barragems-Brasil/blob/master/README.md )
-    
-### Kaggle ###
-
-[ https://www.kaggle.com/edumagalhaes/brazilian-dams-and-brumadinho-households ]( https://www.kaggle.com/edumagalhaes/brazilian-dams-and-brumadinho-households )
-     
-### GoogleColab ###
- 
-[ttps://colab.research.google.com/drive/1BO... ]( https://colab.research.google.com/drive/1BOtbg3ZIIsYcDpsvfbyT1bKzAo2Oke82 )
+### Data4good!
